@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi! I'm Kara (she/her) and I’m a Principal Software Engineer on League Of Legends. I specialize in the Web Platform with a focus on interface engineering, privacy and application security. Introvert. 🏳️‍🌈🏳️‍⚧️.
+
+In addition to software, I'm a writer, tabletop gamer and multisport athlete.
 
 <!--
 **kara-ryli/kara-ryli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
