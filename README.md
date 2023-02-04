@@ -1,4 +1,4 @@
-Hi! I'm Kara (she/her) and I’m a Principal Software Engineer on League Of Legends. I specialize in the Web Platform with a focus on interface engineering, privacy and application security. Introvert. 🏳️‍🌈🏳️‍⚧️.
+Hi! I'm Kara (she/her) and I’m a Principal Software Engineer on [League Of Legends](https://www.leagueoflegends.com/). I specialize in the Web Platform with a focus on interface engineering, privacy and application security. Introvert. 🏳️‍🌈🏳️‍⚧️.
 
 In addition to software, I'm a writer, tabletop gamer and multisport athlete.
 
