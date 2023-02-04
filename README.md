@@ -2,6 +2,8 @@ Hi! I'm Kara (she/her) and I’m a Principal Software Engineer on [League Of Leg
 
 In addition to software, I'm a writer, tabletop gamer and multisport athlete.
 
+My current role limits my ability to make public contributions on GitHub (what is even time!) but I'm happy to chat on socials.
+
 <!--
 **kara-ryli/kara-ryli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
